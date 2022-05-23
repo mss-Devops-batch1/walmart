@@ -1,3 +1,5 @@
+this line for copy
+updta in stage for stash
 
 this line updating in master branch
 
